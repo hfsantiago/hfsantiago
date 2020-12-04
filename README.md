@@ -15,6 +15,7 @@
         </tr>
     </tbody>
 </table>
+
 ### Here some of my work:
 - SCRIPT TOOLS for Holberton:  
     https://github.com/ronniebm/script_configurators  
@@ -22,6 +23,7 @@
     https://play.google.com/store/apps/details?id=com.ronniealberto.Brain&hl=es_CO
 - Currently updating website from old wix format to a new Static Design:  
     www.mcontroles.com  (an Industry Automation company).
+    
 <!--
 **ronniebm/ronniebm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://github.com/ronniebm/ronniebm/blob/master/img/animated05.gif" alt="image">
